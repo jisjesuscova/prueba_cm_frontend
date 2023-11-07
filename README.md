@@ -1,16 +1,10 @@
-# aplicacion
+<p align="center"><a href="https://binfrix.com" target="_blank"><img src="https://binfrix.com/template/dist/img/logo.jpg" width="400" alt="Conectamayor Logo"></a></p>
 
-A new Flutter project.
 
-## Getting Started
+## Proyecto de Prueba para el Cargo de Desarrollador
 
-This project is a starting point for a Flutter application.
+Podrás encontrar el frontend del aplicativo, el cual se encarga de hacer un login de prueba, así de como recibir las notificaciones notificaciones.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter
